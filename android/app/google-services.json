@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339320243160",
+    "project_id": "sathana-mongkhon-in",
+    "storage_bucket": "sathana-mongkhon-in.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339320243160:android:fcbe72c89ab4e94975a8ad",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5PUcV82TPf4mKQzS6IdmY2gw5h41_stM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
